@@ -30,15 +30,15 @@
     "ai-citations",
     "seo"
   ],
-  "author": "Alex Feynman",
+  "author": "deliberatelabs-stack",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Alexfeynman2023/citelens-mcp.git"
+    "url": "git+https://github.com/deliberatelabs-stack/citelens-mcp.git"
   },
-  "homepage": "https://github.com/Alexfeynman2023/citelens-mcp#readme",
+  "homepage": "https://github.com/deliberatelabs-stack/citelens-mcp#readme",
   "bugs": {
-    "url": "https://github.com/Alexfeynman2023/citelens-mcp/issues"
+    "url": "https://github.com/deliberatelabs-stack/citelens-mcp/issues"
   },
   "engines": {
     "node": ">=20.0.0"

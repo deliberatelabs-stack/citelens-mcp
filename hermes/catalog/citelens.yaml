@@ -3,14 +3,14 @@
 # See: https://hermes-agent.nousresearch.com/docs/developer-guide/plugins/catalog-submission
 
 name: citelens
-repo: https://github.com/Alexfeynman2023/citelens-mcp
+repo: https://github.com/deliberatelabs-stack/citelens-mcp
 subdir: hermes
-sha: "REPLACE_WITH_40_CHAR_COMMIT_SHA_AFTER_MERGE"
+sha: "c3e466adadde6dbedab20b36fc852b4267728127"
 version: "0.1.0"
 
 tier: community
 
-author: Alex Feynman
+author: deliberatelabs-stack
 description: >
   See how AI is citing your website. Access Bing Webmaster Tools data,
   submit URLs via IndexNow for instant indexing, and analyze AI citation
@@ -65,7 +65,7 @@ tags:
 
 # Screenshots for the catalog page (update URLs after publishing)
 # screenshots:
-#   - url: https://raw.githubusercontent.com/Alexfeynman2023/citelens-mcp/main/docs/screenshot-tools.png
+#   - url: https://raw.githubusercontent.com/deliberatelabs-stack/citelens-mcp/main/docs/screenshot-tools.png
 #     caption: "CiteLens tools available in Hermes"
 
 # Disclosure per rule 13:
