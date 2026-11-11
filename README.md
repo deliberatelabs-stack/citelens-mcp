@@ -2,7 +2,7 @@
 
 **See how AI is citing your website.** An open-source MCP server that gives AI assistants access to your Bing Webmaster Tools data, IndexNow submission, and AI citation analysis.
 
-[![CI](https://github.com/Alexfeynman2023/citelens-mcp/actions/workflows/ci.yml/badge.svg)](https://github.com/Alexfeynman2023/citelens-mcp/actions/workflows/ci.yml)
+[![CI](https://github.com/deliberatelabs-stack/citelens-mcp/actions/workflows/ci.yml/badge.svg)](https://github.com/deliberatelabs-stack/citelens-mcp/actions/workflows/ci.yml)
 [![npm version](https://badge.fury.io/js/citelens-mcp.svg)](https://www.npmjs.com/package/citelens-mcp)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -68,7 +68,7 @@ Add to your Cursor MCP settings (Settings → MCP):
 Install the CiteLens plugin:
 
 ```bash
-hermes plugins install Alexfeynman2023/citelens-mcp --subdir hermes
+hermes plugins install deliberatelabs-stack/citelens-mcp --subdir hermes
 hermes plugins enable citelens
 ```
 
@@ -220,7 +220,7 @@ export CITELENS_CLIENT_SECRET="your-client-secret"
 
 ```bash
 # Clone and install
-git clone https://github.com/Alexfeynman2023/citelens-mcp
+git clone https://github.com/deliberatelabs-stack/citelens-mcp
 cd citelens-mcp
 npm install
 
@@ -251,7 +251,7 @@ BING_WEBMASTER_API_KEY=your-key npm run dev
 - [ ] Citation alerts and monitoring
 - [ ] Multi-site dashboard
 
-**Interested in a hosted version?** [Let us know!](https://github.com/Alexfeynman2023/citelens-mcp/issues/new?template=hosted_version_interest.md)
+**Interested in a hosted version?** [Let us know!](https://github.com/deliberatelabs-stack/citelens-mcp/issues/new?template=hosted_version_interest.md)
 
 ## Trademark Disclaimer
 
@@ -267,4 +267,4 @@ MIT License - see [LICENSE](LICENSE) for details.
 
 ---
 
-**Questions?** [Open an issue](https://github.com/Alexfeynman2023/citelens-mcp/issues/new) or reach out on X.
+**Questions?** [Open an issue](https://github.com/deliberatelabs-stack/citelens-mcp/issues/new) or reach out on X.

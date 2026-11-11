@@ -5,10 +5,10 @@
   "description": "See how AI is citing your website. Access Bing Webmaster Tools data, IndexNow URL submission, and AI citation analysis through your AI assistant.",
   "version": "0.1.0",
   "author": {
-    "name": "Alex Feynman",
-    "url": "https://github.com/Alexfeynman2023"
+    "name": "deliberatelabs-stack",
+    "url": "https://github.com/deliberatelabs-stack"
   },
-  "repository": "https://github.com/Alexfeynman2023/citelens-mcp",
+  "repository": "https://github.com/deliberatelabs-stack/citelens-mcp",
   "license": "MIT",
   "keywords": [
     "mcp",
